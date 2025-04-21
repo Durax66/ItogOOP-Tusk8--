@@ -15,17 +15,19 @@
    
    ![](https://github.com/Durax66/ItogOOP-Tusk8--/blob/master/screenshots/screen%201.png)
 
-2.Окно создания должности:
 
-   ![](https://github.com/Durax66/ItogOOP-Tusk8--/blob/master/screenshots/screen%202.png)
-
-3.Окно создания отдела: 
-
+2. Окно внесения данных:
+   
    ![]()
    
-4. Окно внесения данных: 
-  
+3.Окно создания должности:
+
    ![]()
+
+4.Окно создания отдела: 
+
+   ![](https://github.com/Durax66/ItogOOP-Tusk8--/blob/master/screenshots/screen%202.png)
+   
 ## Установка
 
 1. Клонируйте репозиторий:
