@@ -18,7 +18,7 @@
 
 2. Окно внесения данных:
    
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk8--/blob/master/screenshots/screen%204.png)
    
 3.Окно создания должности:
 
