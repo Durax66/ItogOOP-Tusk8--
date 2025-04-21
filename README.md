@@ -17,7 +17,7 @@
 
 2.Окно создания должности:
 
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk8--/blob/master/screenshots/screen%202.png)
 
 3.Окно создания отдела: 
 
